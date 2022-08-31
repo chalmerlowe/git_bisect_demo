@@ -7,3 +7,4 @@ print(f"Division: {10/0}\n")    # Division by zero!
 print(f"Division: {10/1}\n")
 print(f"Division: {10/3}\n")
 print(f"Division: {10/5}\n")
+print(f"Division: {10/7}\n")
